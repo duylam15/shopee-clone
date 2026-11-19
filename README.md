@@ -1,5 +1,7 @@
 # Dự án Shopee Clone - ReactJS + TypeScript
 
+🎥 **Video Demo:** [Xem Video Demo trên Google Drive](https://drive.google.com/drive/folders/14i2_pgvSA15LS-qnQ-6hkulsVKzsnLh1)
+
 ## 🚀 Giới thiệu
 
 Dự án Shopee Clone được phát triển bằng **ReactJS** và **TypeScript**, mô phỏng các chức năng chính của một nền tảng thương mại điện tử, nhằm thực hành kỹ năng xây dựng ứng dụng web frontend hoàn chỉnh.
@@ -49,3 +51,12 @@ Dự án Shopee Clone được phát triển bằng **ReactJS** và **TypeScript
 ## 📝 Ghi chú
 
 Ngoài ra, trong quá trình phát triển dự án còn áp dụng nhiều kỹ thuật tối ưu khác như **lazy loading**, **code splitting**, **responsive design**... nhằm nâng cao trải nghiệm người dùng.
+
+---
+
+## 👤 Tác giả
+
+**Nguyễn Đức Duy Lâm**  
+- Portfolio: [porfolio-cyan-nine.vercel.app](https://porfolio-cyan-nine.vercel.app/)  
+- LinkedIn: [linkedin.com/in/nguyễn-lâm-b2b703362](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%A2m-b2b703362/)  
+- GitHub: [@duylam15](https://github.com/duylam15)
